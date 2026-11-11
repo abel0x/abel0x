@@ -1,14 +1,14 @@
 # abel0x
 
-> Tools should answer to the people who run them not the other way around.
+Software developer and security researcher focused on Linux systems programming, network security, and privacy-first tools. 
 
-Independent developer and security researcher focused on **network security**, **Linux systems programming**, and **privacy-first software**. I build things like network layer censorship-circumvention tools, traffic-inspection utilities, and Rust CLI/TUI applications most of it written in Rust, close to the system.
+I primarily build network-layer utilities (including DPI censorship-circumvention tools) and offline-first applications. Most of my core work is written in Rust, heavily interacting with Linux internals to ensure performance and reliability.
 
-I build for auditability over convenience: reproducible builds, signed releases, no telemetry. The people running the software own it not me.
+I develop with a strict focus on auditability: reproducible builds, zero telemetry, and self-hosted environments. 
 
-### Languages & Tools
+### Stack & Internals
 
-- **Languages** - Rust · Python · JavaScript · SQL · HTML · CSS
-- **Systems & networking** - nftables · NFQUEUE · DPI · TLS/SNI · Linux internals
-- **Web & data** - Node.js · React · Vite · REST APIs · JWT · PostgreSQL · SQLite · MongoDB *(+ two file-based engines I built from scratch)*
-- **Workflow** - Cargo · Git · CI/CD · GPG-signed releases · AUR/PKGBUILD
+- **Languages:** Rust · TypeScript · JavaScript · Python · C/C++ · Go
+- **Systems & Networking:** nftables · NFQUEUE · DPI bypass · TLS/SNI · Linux kernel networking
+- **Web & Data:** Node.js · React · Svelte · Vite · PostgreSQL · SQLite · MongoDB
+- **Workflow:** Cargo · Git · CI/CD · SSH signatures · Arch/AUR packaging
